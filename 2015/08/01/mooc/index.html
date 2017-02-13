@@ -71,7 +71,7 @@
 <link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="Hexo,Next," />
+  <meta name="keywords" content="学习,mooc,慕课," />
 
 
 
@@ -87,23 +87,22 @@
 
 
 
-<meta name="description" content="经过前面两期文章，我相信你已经可以在本地建立一个非常令人满意的静态博客了，本篇文章将介绍如何将自己的静态博客部署到 gitpage 上，并托管到 github 上；以及关于 Hexo 和 NexT 中更深层次的一些问题及解方案。
-一、菜单栏中标签与侧边栏中标签关联的问题　　以我的博客为例，关于菜单栏中的选项 与侧边栏中的选项，由于顶部菜单栏中位置有限，所以我就想在顶部菜单栏中不显示 标签 这一">
+<meta name="description" content="大型开放式网络课程，即MOOC（massive open online courses）
+
+mooc推荐（有的收费，请自由选择）mooc中国 [http://www.mooc.cn]学堂在线 [http://www.xuetangx.com]">
 <meta property="og:type" content="article">
-<meta property="og:title" content="text">
-<meta property="og:url" content="http://yoursite.com/2017/02/12/text/index.html">
+<meta property="og:title" content="mooc">
+<meta property="og:url" content="http://yoursite.com/2015/08/01/mooc/index.html">
 <meta property="og:site_name" content="天地有大美">
-<meta property="og:description" content="经过前面两期文章，我相信你已经可以在本地建立一个非常令人满意的静态博客了，本篇文章将介绍如何将自己的静态博客部署到 gitpage 上，并托管到 github 上；以及关于 Hexo 和 NexT 中更深层次的一些问题及解方案。
-一、菜单栏中标签与侧边栏中标签关联的问题　　以我的博客为例，关于菜单栏中的选项 与侧边栏中的选项，由于顶部菜单栏中位置有限，所以我就想在顶部菜单栏中不显示 标签 这一">
-<meta property="og:image" content="http://i1.piimg.com/567571/afbb6058c9f628ad.png">
-<meta property="og:image" content="http://i1.piimg.com/567571/5e3de4efdcabd668.png">
-<meta property="og:image" content="http://p1.bpimg.com/567571/eaef5acfcb3011c2.png">
-<meta property="og:updated_time" content="2017-02-12T08:10:23.000Z">
+<meta property="og:description" content="大型开放式网络课程，即MOOC（massive open online courses）
+
+mooc推荐（有的收费，请自由选择）mooc中国 [http://www.mooc.cn]学堂在线 [http://www.xuetangx.com]">
+<meta property="og:updated_time" content="2017-02-13T07:34:46.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="text">
-<meta name="twitter:description" content="经过前面两期文章，我相信你已经可以在本地建立一个非常令人满意的静态博客了，本篇文章将介绍如何将自己的静态博客部署到 gitpage 上，并托管到 github 上；以及关于 Hexo 和 NexT 中更深层次的一些问题及解方案。
-一、菜单栏中标签与侧边栏中标签关联的问题　　以我的博客为例，关于菜单栏中的选项 与侧边栏中的选项，由于顶部菜单栏中位置有限，所以我就想在顶部菜单栏中不显示 标签 这一">
-<meta name="twitter:image" content="http://i1.piimg.com/567571/afbb6058c9f628ad.png">
+<meta name="twitter:title" content="mooc">
+<meta name="twitter:description" content="大型开放式网络课程，即MOOC（massive open online courses）
+
+mooc推荐（有的收费，请自由选择）mooc中国 [http://www.mooc.cn]学堂在线 [http://www.xuetangx.com]">
 
 
 
@@ -131,13 +130,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/2017/02/12/text/"/>
+  <link rel="canonical" href="http://yoursite.com/2015/08/01/mooc/"/>
 
 
 
 
 
-  <title> text | 天地有大美 </title>
+  <title> mooc | 天地有大美 </title>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
@@ -257,9 +256,32 @@
       
 
       
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            搜索
+          </a>
+        </li>
+      
     </ul>
   
 
+  
+    <div class="site-search">
+      
+  <div class="popup">
+ <span class="search-icon fa fa-search"></span>
+ <input type="text" id="local-search-input">
+ <div id="local-search-result"></div>
+ <span class="popup-btn-close">close</span>
+</div>
+
+
+    </div>
   
 </nav>
 
@@ -284,7 +306,7 @@
   
 
   <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
-  <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/02/12/text/">
+  <link itemprop="mainEntityOfPage" href="http://yoursite.com/2015/08/01/mooc/">
 
   <span style="display:none" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <meta itemprop="name" content="一休强">
@@ -308,7 +330,7 @@
             
             
               
-                text
+                mooc
               
             
           </h1>
@@ -323,8 +345,8 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-02-12T15:53:44+08:00">
-                2017-02-12
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2015-08-01T15:16:53+08:00">
+                2015-08-01
               </time>
             
 
@@ -346,8 +368,19 @@
               
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/综合/" itemprop="url" rel="index">
-                    <span itemprop="name">综合</span>
+                  <a href="/categories/学习/" itemprop="url" rel="index">
+                    <span itemprop="name">学习</span>
+                  </a>
+                </span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/学习/mooc/" itemprop="url" rel="index">
+                    <span itemprop="name">mooc</span>
                   </a>
                 </span>
 
@@ -358,10 +391,22 @@
           
 
           
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2015/08/01/mooc/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count ds-thread-count" data-thread-key="2015/08/01/mooc/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
 
           
           
-             <span id="/2017/02/12/text/" class="leancloud_visitors" data-flag-title="text">
+             <span id="/2015/08/01/mooc/" class="leancloud_visitors" data-flag-title="mooc">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -395,31 +440,9 @@
       
 
       
-        <p>　　经过前面两期文章，我相信你已经可以在本地建立一个非常令人满意的静态博客了，本篇文章将介绍如何将自己的静态博客部署到 <code>gitpage</code> 上，并托管到 <code>github</code> 上；以及关于 Hexo 和 NexT 中更深层次的一些问题及解方案。</p>
-<h2 id="一、菜单栏中标签与侧边栏中标签关联的问题"><a href="#一、菜单栏中标签与侧边栏中标签关联的问题" class="headerlink" title="一、菜单栏中标签与侧边栏中标签关联的问题"></a>一、菜单栏中标签与侧边栏中标签关联的问题</h2><p>　　以我的博客为例，关于菜单栏中的选项 与侧边栏中的选项，由于顶部菜单栏中位置有限，所以我就想在顶部菜单栏中不显示 <code>标签</code> 这一项，于是我在 <span id="inline-purple">主题配置文件</span> 中 将 menu 配置项中的 <code>标签</code> 这一个选项给注释掉了，所以它不会在菜单栏中显示，但是不代表没有这个页面，这个页面是存在的，我们只是使其不显示在顶部的菜单栏中而已，我们可以直接输入绝对地址来查看这个页面，例如：<a href="https://neveryu.github.io/tags/" target="_blank" rel="external">https://neveryu.github.io/tags/</a>。但是与此同时，我们发现侧边栏中的<b>标签</b>选项只能显示标签数量，不能点击。</p>
-<a id="more"></a>
-<p>　　这是因为侧边栏中的点击链接是根据菜单栏中对应的项来添加的，什么意思呢？就是说如果顶部菜单栏中有<b>标签</b>这一项，那么就会给侧边栏中<b>标签</b>这一项也添加点击链接；如果顶部菜单栏中没有<b>标签</b>这一项，那么就不给侧边栏中<b>标签</b>这一项添加点击链接，导致侧边栏中的<b>标签</b>项只有显示数据，不提供点击链接。<br>　　如果我们不想在菜单栏中显示<b>标签</b>项，但是希望侧边栏中的<b>标签</b>项 可以点击，该怎么做呢？<br>　　在 <span id="inline-purple">主题配置文件</span> <code>\themes\next\layout\_macro\sidebar.swing_</code> 中，将<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">&#123;% if site.tags.length &gt; 0 %&#125;</div><div class="line">&lt;div class=&quot;site-state-item site-state-tags&quot;&gt;</div><div class="line">&#123;% if theme.menu.tags %&#125;&lt;a href=&quot;&#123;&#123; url_for(theme.menu.tags) &#125;&#125;&quot;&gt;&#123;% endif %&#125;</div><div class="line">&lt;span class=&quot;site-state-item-count&quot;&gt;&#123;&#123; site.tags.length &#125;&#125;&lt;/span&gt;</div><div class="line">&lt;span class=&quot;site-state-item-name&quot;&gt;&#123;&#123; __(&apos;state.tags&apos;) &#125;&#125;&lt;/span&gt;</div><div class="line">&#123;% if theme.menu.tags %&#125;&lt;/a&gt;&#123;% endif %&#125;</div><div class="line">&lt;/div&gt;</div><div class="line">&#123;% endif %&#125;</div></pre></td></tr></table></figure></p>
-<p>改成：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">&#123;% if site.tags.length &gt; 0 %&#125;</div><div class="line">&lt;div class=&quot;site-state-item site-state-tags&quot;&gt;</div><div class="line">&lt;a href=&quot;&#123;&#123; url_for(theme.menu.tags) &#125;&#125;&quot;&gt;</div><div class="line">&lt;span class=&quot;site-state-item-count&quot;&gt;&#123;&#123; site.tags.length &#125;&#125;&lt;/span&gt;</div><div class="line">&lt;span class=&quot;site-state-item-name&quot;&gt;&#123;&#123; __(&apos;state.tags&apos;) &#125;&#125;&lt;/span&gt;</div><div class="line">&lt;/a&gt;</div><div class="line">&lt;/div&gt;</div><div class="line">&#123;% endif %&#125;</div></pre></td></tr></table></figure></p>
-<p id="div-border-left-red">同理，关于菜单栏中 归档 和 分类 的类似操作也是如此。</p>
+        <p id="div-border-left-blue">大型开放式网络课程，即MOOC（massive open online courses）</p>
 
-
-<h2 id="二、关于High一下中的音乐多次点击重叠播放的解决方案"><a href="#二、关于High一下中的音乐多次点击重叠播放的解决方案" class="headerlink" title="二、关于High一下中的音乐多次点击重叠播放的解决方案"></a>二、关于High一下中的音乐多次点击重叠播放的解决方案</h2><p>　　在之前的 High一下 的播放音乐，如果多次点击的话，音乐会重复叠加播放，严重影响听歌体验，而且只能播放一首歌。<br>　　而现在的 High一下 已经解决了这个问题，而且可以列表循环多首歌曲。我将之前的那段播放音乐的代码换了。由于代码太长了，就不在这里贴出来了。大家可以去查看我的源码：<a href="https://github.com/Neveryu/Blog" target="_blank" rel="external">https://github.com/Neveryu/Blog</a>。<br>关于播放音乐的代码是在：<a href="https://github.com/Neveryu/Blog/blob/master/themes/next/layout/_partials/header.swig" target="_blank" rel="external">https://github.com/Neveryu/Blog/blob/master/themes/next/layout/_partials/header.swig</a> 中的第 60 行开始。<br>　　需要说明的是：现在的 High一下 实现了歌曲列表循环，所以，我们可以放入多首歌的链接。在代码中以数组元素的形式加入歌曲链接。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">var songs = [</div><div class="line">&quot;http://v.65dj.com/wailian/84791c997d8c55023dad0d5690e48c28.mp3&quot;,</div><div class="line">&quot;http://7xoiki.com1.z0.glb.clouddn.com/Music-sunburst.mp3&quot;</div><div class="line">];</div></pre></td></tr></table></figure></p>
-<h2 id="三、关于github屏蔽vendors-，导致页面空白的解决方案"><a href="#三、关于github屏蔽vendors-，导致页面空白的解决方案" class="headerlink" title="三、关于github屏蔽vendors ，导致页面空白的解决方案"></a>三、关于github屏蔽vendors ，导致页面空白的解决方案</h2><p>关于 Github Pages 过滤掉了 <code>source/vendors</code> 目录的访问，导致加载vendor里面的文件全部 404 ，页面大面积空白。<br>1.在根目录添加.nojekyll文件。<br>2.也可以手动将 <code>source/vendors</code> 目录修改成 <code>source/lib</code> 同时，修改主题配置文件 <code>_config.yml</code> ，将 <code>_internal: vendors</code> 改成你所修改的名字，例如 <code>_internal: lib</code> 。</p>
-<h2 id="四、关于如何获取自己的多说userid"><a href="#四、关于如何获取自己的多说userid" class="headerlink" title="四、关于如何获取自己的多说userid"></a>四、关于如何获取自己的多说userid</h2><p>首先进入自己的帐号管理页面，点击左上自己的名字<br><img src="http://i1.piimg.com/567571/afbb6058c9f628ad.png" alt=""><br>此时地址栏后面的一串数字就是你的多说 <code>userid</code>。<br><img src="http://i1.piimg.com/567571/5e3de4efdcabd668.png" alt=""></p>
-<h2 id="五、关于如何修改内容区域宽度"><a href="#五、关于如何修改内容区域宽度" class="headerlink" title="五、关于如何修改内容区域宽度"></a>五、关于如何修改内容区域宽度</h2><p><code>Next</code> 对内容的宽度的设定如下：</p>
-<ul>
-<li>700px，当屏幕宽度 &lt; 1600px</li>
-<li>900px，当屏幕宽度 &gt;= 1600px</li>
-<li>移动设备下，宽度自适应</li>
-</ul>
-<p>如果你需要修改内容的宽度，同样需要编辑样式文件。编辑主题的 <code>source\css\_variables\custom.styl</code> 文件，新增变量：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">// 修改成你期望的宽度</div><div class="line">$content-desktop = 700px</div><div class="line"></div><div class="line">// 当视窗超过 1600px 后的宽度</div><div class="line">$content-desktop-large = 900px</div></pre></td></tr></table></figure></p>
-<p>此方法不适用于 <code>Pisces Scheme</code> ， <code>Pisces Scheme</code> 编辑 <code>themes\next\source\css\_schemes\Picses\_layout.styl</code> 文件，更改以下 <code>css</code> 选项定义值：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">.header &#123;width: 1150px;&#125;</div><div class="line">.container .main-inner &#123;width: 1150px;&#125;</div><div class="line">.content-wrap &#123;width: calc(100% - 260px);&#125;</div></pre></td></tr></table></figure></p>
-<h2 id="六、图片模式"><a href="#六、图片模式" class="headerlink" title="六、图片模式"></a>六、图片模式</h2><p>新建博文，设置 <code>type: &quot;picture&quot;</code> ，使用 <code>{\% gp x-x \%}...{\% endgp \%}</code> 标签引用要展示的图片地址，如下所示：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">---</div><div class="line">title: Naruto-Pictures</div><div class="line">categories: [picture]</div><div class="line">tags: [picture,naruto]</div><div class="line">date: 2016-11-02 14:36:04</div><div class="line">type: &quot;picture&quot;</div><div class="line">---</div><div class="line">&#123;% gp 5-3 %&#125;</div><div class="line">![](http://oapjp6spr.bkt.clouddn.com/18210.jpg)</div><div class="line">![](http://oapjp6spr.bkt.clouddn.com/196232.jpg)</div><div class="line">![](http://oapjp6spr.bkt.clouddn.com/224147.jpg)</div><div class="line">![](http://oapjp6spr.bkt.clouddn.com/199301.jpg)</div><div class="line">![](http://oapjp6spr.bkt.clouddn.com/213318.jpg)</div><div class="line">&#123;% endgp %&#125;</div></pre></td></tr></table></figure></p>
-<p><strong> 图片展示效果 </strong><br><code>{\% gp 5-3 \%}</code>：设置图片展示效果，参考 <code>themes\next\scripts\tags\group-pictures.js</code> 注释示意图。<br><img src="http://p1.bpimg.com/567571/eaef5acfcb3011c2.png" alt=""><br><code>5-3</code> 的意思就是5张图片将会按照这种布局来展示，<code>Next</code> 提供了多张图片的多种布局，你可以随意选择。</p>
-<p></p><h5 style="color:#f63;"><i>最后要说的是：</i></h5><p></p>
-<p id="div-border-top-green"><i><a href="https://github.com/Neveryu/Neveryu.github.io" target="_blank" rel="external">我的博客仓库</a><br><a href="https://github.com/Neveryu/Blog" target="_blank" rel="external">博客源码</a><br></i></p>
-
-<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote>
+<h2 id="mooc推荐（有的收费，请自由选择）"><a href="#mooc推荐（有的收费，请自由选择）" class="headerlink" title="mooc推荐（有的收费，请自由选择）"></a>mooc推荐（有的收费，请自由选择）</h2><p>mooc中国 [<a href="http://www.mooc.cn" target="_blank" rel="external">http://www.mooc.cn</a>]<br>学堂在线 [<a href="http://www.xuetangx.com" target="_blank" rel="external">http://www.xuetangx.com</a>]<br><a id="more"></a><br>慕课网 [<a href="http://www.imooc.com" target="_blank" rel="external">http://www.imooc.com</a>]<br>爱课程 [<a href="http://www.icourses.cn" target="_blank" rel="external">http://www.icourses.cn</a>]<br>中国大学Mooc [<a href="http://www.icourse163.org" target="_blank" rel="external">http://www.icourse163.org</a>]<br>好大学在线 [<a href="http://www.cnmooc.org" target="_blank" rel="external">http://www.cnmooc.org</a>]<br>天天象上 [<a href="http://www.daydays.com" target="_blank" rel="external">http://www.daydays.com</a>]<br>咪咕学堂 [<a href="http://www.miguxue.com" target="_blank" rel="external">http://www.miguxue.com</a>]<br>万门大学 [<a href="http://www.wanmen.org" target="_blank" rel="external">http://www.wanmen.org</a>]<br>顶你学堂 [<a href="http://www.topu.com" target="_blank" rel="external">http://www.topu.com</a>]</p>
 
       
     </div>
@@ -469,9 +492,11 @@
       
         <div class="post-tags">
           
-            <a href="/tags/Hexo/" rel="tag"># Hexo</a>
+            <a href="/tags/学习/" rel="tag"># 学习</a>
           
-            <a href="/tags/Next/" rel="tag"># Next</a>
+            <a href="/tags/mooc/" rel="tag"># mooc</a>
+          
+            <a href="/tags/慕课/" rel="tag"># 慕课</a>
           
         </div>
       
@@ -484,8 +509,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2017/02/12/mooc/" rel="next" title="mooc">
-                <i class="fa fa-chevron-left"></i> mooc
+              <a href="/2015/08/01/关于读和写/" rel="next" title="关于读和写">
+                <i class="fa fa-chevron-left"></i> 关于读和写
               </a>
             
           </div>
@@ -516,6 +541,14 @@
 
 
           
+  <div class="comments" id="comments">
+    
+      <div class="ds-thread" data-thread-key="2015/08/01/mooc/"
+           data-title="mooc" data-url="http://yoursite.com/2015/08/01/mooc/">
+      </div>
+    
+  </div>
+
 
         </div>
         
@@ -567,7 +600,7 @@
           
             <div class="site-state-item site-state-categories">
               <a href="/categories">
-                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-count">4</span>
                 <span class="site-state-item-name">分类</span>
               </a>
             </div>
@@ -631,7 +664,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#一、菜单栏中标签与侧边栏中标签关联的问题"><span class="nav-number">1.</span> <span class="nav-text">一、菜单栏中标签与侧边栏中标签关联的问题</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#二、关于High一下中的音乐多次点击重叠播放的解决方案"><span class="nav-number">2.</span> <span class="nav-text">二、关于High一下中的音乐多次点击重叠播放的解决方案</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#三、关于github屏蔽vendors-，导致页面空白的解决方案"><span class="nav-number">3.</span> <span class="nav-text">三、关于github屏蔽vendors ，导致页面空白的解决方案</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#四、关于如何获取自己的多说userid"><span class="nav-number">4.</span> <span class="nav-text">四、关于如何获取自己的多说userid</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#五、关于如何修改内容区域宽度"><span class="nav-number">5.</span> <span class="nav-text">五、关于如何修改内容区域宽度</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#六、图片模式"><span class="nav-number">6.</span> <span class="nav-text">六、图片模式</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#undefined"><span class="nav-number">6.0.0.1.</span> <span class="nav-text">最后要说的是：</span></a></li></ol></li></ol></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#mooc推荐（有的收费，请自由选择）"><span class="nav-number">1.</span> <span class="nav-text">mooc推荐（有的收费，请自由选择）</span></a></li></ol></div>
             
 
           </div>
@@ -800,6 +833,130 @@
 
   
   
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length == 0) {
+      search_path = "search.xml";
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    function proceedsearch() {
+      $("body").append('<div class="popoverlay">').css('overflow', 'hidden');
+      $('.popup').toggle();
+    }
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+      $.ajax({
+        url: path,
+        dataType: "xml",
+        async: true,
+        success: function( xmlResponse ) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = $( "entry", xmlResponse ).map(function() {
+            return {
+              title: $( "title", this ).text(),
+              content: $("content",this).text(),
+              url: $( "url" , this).text()
+            };
+          }).get();
+          var $input = document.getElementById(search_id);
+          var $resultContent = document.getElementById(content_id);
+          $input.addEventListener('input', function(){
+            var matchcounts = 0;
+            var str='<ul class=\"search-result-list\">';
+            var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
+            $resultContent.innerHTML = "";
+            if (this.value.trim().length > 1) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var content_index = [];
+                var data_title = data.title.trim().toLowerCase();
+                var data_content = data.content.trim().replace(/<[^>]+>/g,"").toLowerCase();
+                var data_url = decodeURIComponent(data.url);
+                var index_title = -1;
+                var index_content = -1;
+                var first_occur = -1;
+                // only match artiles with not empty titles and contents
+                if(data_title != '') {
+                  keywords.forEach(function(keyword, i) {
+                    index_title = data_title.indexOf(keyword);
+                    index_content = data_content.indexOf(keyword);
+                    if( index_title >= 0 || index_content >= 0 ){
+                      isMatch = true;
+                      if (i == 0) {
+                        first_occur = index_content;
+                      }
+                    }
+
+                  });
+                }
+                // show search results
+                if (isMatch) {
+                  matchcounts += 1;
+                  str += "<li><a href='"+ data_url +"' class='search-result-title'>"+ data_title +"</a>";
+                  var content = data.content.trim().replace(/<[^>]+>/g,"");
+                  if (first_occur >= 0) {
+                    // cut out 100 characters
+                    var start = first_occur - 20;
+                    var end = first_occur + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if(start == 0){
+                      end = 50;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    var match_content = content.substring(start, end);
+                    // highlight all keywords
+                    keywords.forEach(function(keyword){
+                      var regS = new RegExp(keyword, "gi");
+                      match_content = match_content.replace(regS, "<b class=\"search-keyword\">"+keyword+"</b>");
+                    });
+
+                    str += "<p class=\"search-result\">" + match_content +"...</p>"
+                  }
+                  str += "</li>";
+                }
+              })};
+            str += "</ul>";
+            if (matchcounts == 0) { str = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>' }
+            if (keywords == "") { str = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>' }
+            $resultContent.innerHTML = str;
+          });
+          proceedsearch();
+        }
+      });}
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched == false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(function(e){
+      $('.popup').hide();
+      $(".popoverlay").remove();
+      $('body').css('overflow', '');
+    });
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+  </script>
+
 
   
 
