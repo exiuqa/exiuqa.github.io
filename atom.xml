@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>天地有大美</title>
-  <subtitle>exiuqa</subtitle>
+  <title>Exiuqa&#39;s Blog</title>
+  <subtitle>反思过去，活在未来，专注当下。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://exiuqa.github.io/"/>
   <updated>2017-03-22T03:37:31.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://exiuqa.github.io/</id>
   
   <author>
     <name>一休强</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>mooc</title>
-    <link href="http://yoursite.com/2015/08/01/mooc/"/>
-    <id>http://yoursite.com/2015/08/01/mooc/</id>
+    <link href="http://exiuqa.github.io/2015/08/01/mooc/"/>
+    <id>http://exiuqa.github.io/2015/08/01/mooc/</id>
     <published>2015-08-01T07:16:53.000Z</published>
     <updated>2017-03-22T03:37:31.000Z</updated>
     
@@ -35,23 +35,23 @@
     
     </summary>
     
-      <category term="学习" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="http://exiuqa.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="mooc" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/mooc/"/>
+      <category term="mooc" scheme="http://exiuqa.github.io/categories/%E5%AD%A6%E4%B9%A0/mooc/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="http://exiuqa.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="mooc" scheme="http://yoursite.com/tags/mooc/"/>
+      <category term="mooc" scheme="http://exiuqa.github.io/tags/mooc/"/>
     
-      <category term="慕课" scheme="http://yoursite.com/tags/%E6%85%95%E8%AF%BE/"/>
+      <category term="慕课" scheme="http://exiuqa.github.io/tags/%E6%85%95%E8%AF%BE/"/>
     
   </entry>
   
   <entry>
     <title>陶瓷</title>
-    <link href="http://yoursite.com/2015/08/01/%E9%99%B6%E7%93%B7/"/>
-    <id>http://yoursite.com/2015/08/01/陶瓷/</id>
+    <link href="http://exiuqa.github.io/2015/08/01/%E9%99%B6%E7%93%B7/"/>
+    <id>http://exiuqa.github.io/2015/08/01/陶瓷/</id>
     <published>2015-08-01T07:16:53.000Z</published>
     <updated>2017-03-22T03:19:24.000Z</updated>
     
@@ -68,23 +68,23 @@
     
     </summary>
     
-      <category term="学习" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="http://exiuqa.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="mooc" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/mooc/"/>
+      <category term="mooc" scheme="http://exiuqa.github.io/categories/%E5%AD%A6%E4%B9%A0/mooc/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="http://exiuqa.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="mooc" scheme="http://yoursite.com/tags/mooc/"/>
+      <category term="mooc" scheme="http://exiuqa.github.io/tags/mooc/"/>
     
-      <category term="慕课" scheme="http://yoursite.com/tags/%E6%85%95%E8%AF%BE/"/>
+      <category term="慕课" scheme="http://exiuqa.github.io/tags/%E6%85%95%E8%AF%BE/"/>
     
   </entry>
   
   <entry>
     <title>关于读和写</title>
-    <link href="http://yoursite.com/2015/08/01/%E5%85%B3%E4%BA%8E%E8%AF%BB%E5%92%8C%E5%86%99/"/>
-    <id>http://yoursite.com/2015/08/01/关于读和写/</id>
+    <link href="http://exiuqa.github.io/2015/08/01/%E5%85%B3%E4%BA%8E%E8%AF%BB%E5%92%8C%E5%86%99/"/>
+    <id>http://exiuqa.github.io/2015/08/01/关于读和写/</id>
     <published>2015-08-01T07:07:20.000Z</published>
     <updated>2017-02-13T07:41:45.000Z</updated>
     
@@ -104,14 +104,14 @@
     
     </summary>
     
-      <category term="写作" scheme="http://yoursite.com/categories/%E5%86%99%E4%BD%9C/"/>
+      <category term="写作" scheme="http://exiuqa.github.io/categories/%E5%86%99%E4%BD%9C/"/>
     
-      <category term="鸡血" scheme="http://yoursite.com/categories/%E5%86%99%E4%BD%9C/%E9%B8%A1%E8%A1%80/"/>
+      <category term="鸡血" scheme="http://exiuqa.github.io/categories/%E5%86%99%E4%BD%9C/%E9%B8%A1%E8%A1%80/"/>
     
     
-      <category term="写作" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C/"/>
+      <category term="写作" scheme="http://exiuqa.github.io/tags/%E5%86%99%E4%BD%9C/"/>
     
-      <category term="阅读" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB/"/>
+      <category term="阅读" scheme="http://exiuqa.github.io/tags/%E9%98%85%E8%AF%BB/"/>
     
   </entry>
   
