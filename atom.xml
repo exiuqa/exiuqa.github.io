@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://exiuqa.github.io/"/>
-  <updated>2017-03-23T10:24:40.000Z</updated>
+  <updated>2017-03-23T10:27:24.000Z</updated>
   <id>http://exiuqa.github.io/</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="http://exiuqa.github.io/2017/03/23/%E9%9A%90%E7%A7%81%E4%B8%8E%E5%AE%89%E5%85%A8/"/>
     <id>http://exiuqa.github.io/2017/03/23/隐私与安全/</id>
     <published>2017-03-23T07:07:20.000Z</published>
-    <updated>2017-03-23T10:24:40.000Z</updated>
+    <updated>2017-03-23T10:27:24.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="隐私"><a href="#隐私" class="headerlink" title="隐私"></a>隐私</h1><p>在互联网的浪潮中，个人信息越来越透明化了，你信么？<br>例如:在这个网站中，你可以用手机号、邮箱等查到注册过哪些网站。<br><a href="http://www.reg007.com/" target="_blank" rel="external">reg007</a><br>我想网站的本意是给那些记性不好，还懒的整理记录的伙伴们一个注销各大网站的参考，如你由于某种原因要更改手机号，却想不起哪些网站的手机号需要更换。</p>
 <p>但是，如果有个使坏的人，查到你注册过的网站，会不会揪出你的糗事大肆宣扬？就像无边的黑暗中，总有一双眼睛看着你，心里毛毛的。</p>
-<h1 id="安全"><a href="#安全" class="headerlink" title="安全"></a>安全</h1><p>网站设置密码的目的就是为了安全。那怎样设置密码才能安全呢？我从公众号<em>懒人在思考</em>[lazy-thought]收集了以下密码记忆模型，希望对你有用。ps：可以添加他公众号，绝对的黑客干货。</p>
+<h1 id="安全"><a href="#安全" class="headerlink" title="安全"></a>安全</h1><p>网站设置密码的目的就是为了安全。那怎样设置密码才能安全呢？我从微信公众号<em>懒人在思考</em>[lazy-thought]收集了以下密码记忆模型，希望对你有用。ps：可以添加他公众号，绝对的黑客干货。</p>
 <p>1.找一本烂读于心的书或一部记忆深刻的电影，根据网站的类型（某种气质）去对应书或电影中的某物的某个属性。如林黛玉说过的：“侬今葬花人笑痴，他年葬侬知是谁”取其字母输入。<br>2.在原密码后加上“+5s”。密码最好由<strong>大小写字母+数字+特殊符号</strong>构成。<br>3.不支持 qq或者微信的不登录了。<br>4.整理一个加密的 excel表，然后存储在私有云中（eg:坚果云…）。<br>5.购买密码管理软件。如 lastpass，1password，keeppass 等。<br>…等</p>
 <p>你还有更好的方式吗？最后，一定要养成定期换密码的习惯。尤其那些财产相关的。</p>
 ]]></content>
@@ -88,9 +88,12 @@
     <link href="http://exiuqa.github.io/2015/08/01/%E5%85%B3%E4%BA%8E%E8%AF%BB%E5%92%8C%E5%86%99/"/>
     <id>http://exiuqa.github.io/2015/08/01/关于读和写/</id>
     <published>2015-08-01T07:07:20.000Z</published>
-    <updated>2017-03-23T08:19:50.000Z</updated>
+    <updated>2017-03-23T10:36:46.000Z</updated>
     
-    <content type="html"><![CDATA[<p id="div-border-top-red">关于阅读</p><br>## 1.为什么要阅读呢？<br><br>1：我害怕阅读的人，他们的一小时，就是我的一生！<br>2：书中横卧着整个过去的灵魂!<br>3：读书可以经历一千种人生，不读书你只能活一次！<br>4：为了保护我们的思想不受侵害，能够与侵入我们思想使我们日渐沉默的力量抗衡，我们必须学会阅读。以此来激活自身的想象力，去培养属于我们自己的意识和信仰，我们需要这些技能来保卫和维护自己的思想！<br>少年，还不去读书。go,go,go~<br><br>## 2.怎么阅读呢？<br><br>先推荐一本书，《如何阅读一本书》–[美] 莫提默·J. 艾德勒，该书主要论述指导如何通过阅读增进理解力。<br><br><br><p id="div-border-top-blue">关于写作</p><br>人生既然再活一遍没有指望，只好退而求其次，最像再活一遍的事情似乎就是对这一生的一种反思了；要使这种反思尽可能的经久不衰，那就是 诉诸笔墨 ！<br><br><p id="div-border-top-red">道理都懂，就践行、积累吧</p>
+    <content type="html"><![CDATA[<p id="div-border-top-red">关于阅读</p><br>### 1.为什么要阅读呢？<br>1：我害怕阅读的人，他们的一小时，就是我的一生！<br>2：书中横卧着整个过去的灵魂!<br>3：读书可以经历一千种人生，不读书你只能活一次！<br>4：为了保护我们的思想不受侵害，能够与侵入我们思想使我们日渐沉默的力量抗衡，我们必须学会阅读。以此来激活自身的想象力，去培养属于我们自己的意识和信仰，我们需要这些技能来保卫和维护自己的思想！<br><p id="inline-purple">少年，还不去读书。go,go,go~</p>
+
+<h3 id="2-怎么阅读呢？"><a href="#2-怎么阅读呢？" class="headerlink" title="2.怎么阅读呢？"></a>2.怎么阅读呢？</h3><p>先推荐一本书，《如何阅读一本书》–[美] 莫提默·J. 艾德勒，该书主要论述指导如何通过阅读增进理解力。</p>
+<p id="div-border-top-blue">关于写作</p><br>人生既然再活一遍没有指望，只好退而求其次，最像再活一遍的事情似乎就是对这一生的一种反思了；要使这种反思尽可能的经久不衰，那就是 诉诸笔墨 ！<br><br><p id="div-border-top-red">道理都懂，就践行、积累吧</p>
 
 
 
@@ -98,7 +101,7 @@
     
     <summary type="html">
     
-      &lt;p id=&quot;div-border-top-red&quot;&gt;关于阅读&lt;/p&gt;&lt;br&gt;## 1.为什么要阅读呢？&lt;br&gt;&lt;br&gt;1：我害怕阅读的人，他们的一小时，就是我的一生！&lt;br&gt;2：书中横卧着整个过去的灵魂!&lt;br&gt;3：读书可以经历一千种人生，不读书你只能活一次！&lt;br&gt;4：为了保
+      &lt;p id=&quot;div-border-top-red&quot;&gt;关于阅读&lt;/p&gt;&lt;br&gt;### 1.为什么要阅读呢？&lt;br&gt;1：我害怕阅读的人，他们的一小时，就是我的一生！&lt;br&gt;2：书中横卧着整个过去的灵魂!&lt;br&gt;3：读书可以经历一千种人生，不读书你只能活一次！&lt;br&gt;4：为了保护我们
     
     </summary>
     
