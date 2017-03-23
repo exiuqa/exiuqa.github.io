@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>天地有大美</title>
+  <subtitle>exiuqa</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-03-22T03:37:31.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>一休强</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mooc</title>
+    <link href="http://yoursite.com/2015/08/01/mooc/"/>
+    <id>http://yoursite.com/2015/08/01/mooc/</id>
+    <published>2015-08-01T07:16:53.000Z</published>
+    <updated>2017-03-22T03:37:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<p id="div-border-left-blue">大型开放式网络课程，即MOOC（massive open online courses）</p>
+
+<h2 id="mooc推荐（有的收费，请自由选择）"><a href="#mooc推荐（有的收费，请自由选择）" class="headerlink" title="mooc推荐（有的收费，请自由选择）"></a>mooc推荐（有的收费，请自由选择）</h2><p>mooc中国 [<a href="http://www.mooc.cn" target="_blank" rel="external">http://www.mooc.cn</a>]<br>学堂在线 [<a href="http://www.xuetangx.com" target="_blank" rel="external">http://www.xuetangx.com</a>]<br><a id="more"></a><br>慕课网 [<a href="http://www.imooc.com" target="_blank" rel="external">http://www.imooc.com</a>]<br>爱课程 [<a href="http://www.icourses.cn" target="_blank" rel="external">http://www.icourses.cn</a>]<br>中国大学Mooc [<a href="http://www.icourse163.org" target="_blank" rel="external">http://www.icourse163.org</a>]<br>好大学在线 [<a href="http://www.cnmooc.org" target="_blank" rel="external">http://www.cnmooc.org</a>]<br>天天象上 [<a href="http://www.daydays.com" target="_blank" rel="external">http://www.daydays.com</a>]<br>咪咕学堂 [<a href="http://www.miguxue.com" target="_blank" rel="external">http://www.miguxue.com</a>]<br>万门大学 [<a href="http://www.wanmen.org" target="_blank" rel="external">http://www.wanmen.org</a>]<br>顶你学堂 [<a href="http://www.topu.com" target="_blank" rel="external">http://www.topu.com</a>]</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p id=&quot;div-border-left-blue&quot;&gt;大型开放式网络课程，即MOOC（massive open online courses）&lt;/p&gt;
+
+&lt;h2 id=&quot;mooc推荐（有的收费，请自由选择）&quot;&gt;&lt;a href=&quot;#mooc推荐（有的收费，请自由选择）&quot; class=&quot;headerlink&quot; title=&quot;mooc推荐（有的收费，请自由选择）&quot;&gt;&lt;/a&gt;mooc推荐（有的收费，请自由选择）&lt;/h2&gt;&lt;p&gt;mooc中国 [&lt;a href=&quot;http://www.mooc.cn&quot;&gt;http://www.mooc.cn&lt;/a&gt;]&lt;br&gt;学堂在线 [&lt;a href=&quot;http://www.xuetangx.com&quot;&gt;http://www.xuetangx.com&lt;/a&gt;]&lt;br&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="mooc" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/mooc/"/>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="mooc" scheme="http://yoursite.com/tags/mooc/"/>
+    
+      <category term="慕课" scheme="http://yoursite.com/tags/%E6%85%95%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>陶瓷</title>
+    <link href="http://yoursite.com/2015/08/01/%E9%99%B6%E7%93%B7/"/>
+    <id>http://yoursite.com/2015/08/01/陶瓷/</id>
+    <published>2015-08-01T07:16:53.000Z</published>
+    <updated>2017-03-22T03:19:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<p id="div-border-left-blue">大型开放式网络课程，即MOOC（massive open online courses）</p>
+
+<h2 id="mooc推荐（有的收费，请自由选择）"><a href="#mooc推荐（有的收费，请自由选择）" class="headerlink" title="mooc推荐（有的收费，请自由选择）"></a>mooc推荐（有的收费，请自由选择）</h2><p>mooc中国 [<a href="http://www.mooc.cn" target="_blank" rel="external">http://www.mooc.cn</a>]<br>学堂在线 [<a href="http://www.xuetangx.com" target="_blank" rel="external">http://www.xuetangx.com</a>]<br><a id="more"></a><br>慕课网 [<a href="http://www.imooc.com" target="_blank" rel="external">http://www.imooc.com</a>]<br>爱课程 [<a href="http://www.icourses.cn" target="_blank" rel="external">http://www.icourses.cn</a>]<br>中国大学Mooc [<a href="http://www.icourse163.org" target="_blank" rel="external">http://www.icourse163.org</a>]<br>好大学在线 [<a href="http://www.cnmooc.org" target="_blank" rel="external">http://www.cnmooc.org</a>]<br>天天象上 [<a href="http://www.daydays.com" target="_blank" rel="external">http://www.daydays.com</a>]<br>咪咕学堂 [<a href="http://www.miguxue.com" target="_blank" rel="external">http://www.miguxue.com</a>]<br>万门大学 [<a href="http://www.wanmen.org" target="_blank" rel="external">http://www.wanmen.org</a>]<br>顶你学堂 [<a href="http://www.topu.com" target="_blank" rel="external">http://www.topu.com</a>]</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p id=&quot;div-border-left-blue&quot;&gt;大型开放式网络课程，即MOOC（massive open online courses）&lt;/p&gt;
+
+&lt;h2 id=&quot;mooc推荐（有的收费，请自由选择）&quot;&gt;&lt;a href=&quot;#mooc推荐（有的收费，请自由选择）&quot; class=&quot;headerlink&quot; title=&quot;mooc推荐（有的收费，请自由选择）&quot;&gt;&lt;/a&gt;mooc推荐（有的收费，请自由选择）&lt;/h2&gt;&lt;p&gt;mooc中国 [&lt;a href=&quot;http://www.mooc.cn&quot;&gt;http://www.mooc.cn&lt;/a&gt;]&lt;br&gt;学堂在线 [&lt;a href=&quot;http://www.xuetangx.com&quot;&gt;http://www.xuetangx.com&lt;/a&gt;]&lt;br&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="mooc" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/mooc/"/>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="mooc" scheme="http://yoursite.com/tags/mooc/"/>
+    
+      <category term="慕课" scheme="http://yoursite.com/tags/%E6%85%95%E8%AF%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于读和写</title>
+    <link href="http://yoursite.com/2015/08/01/%E5%85%B3%E4%BA%8E%E8%AF%BB%E5%92%8C%E5%86%99/"/>
+    <id>http://yoursite.com/2015/08/01/关于读和写/</id>
+    <published>2015-08-01T07:07:20.000Z</published>
+    <updated>2017-02-13T07:41:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><span id="inline-purple">#关于阅读</span></p>
+<h2 id="1-为什么要阅读呢？"><a href="#1-为什么要阅读呢？" class="headerlink" title="1.为什么要阅读呢？"></a>1.为什么要阅读呢？</h2><p>1：我害怕阅读的人，他们的一小时，就是我的一生！<br>2：书中横卧着整个过去的灵魂!<br>3：读书可以经历一千种人生，不读书你只能活一次！<br>4：为了保护我们的思想不受侵害，能够与侵入我们思想使我们日渐沉默的力量抗衡，我们必须学会阅读。以此来激活自身的想象力，去培养属于我们自己的意识和信仰，我们需要这些技能来保卫和维护自己的思想！<br><a id="more"></a><br>少年，还不去读书。go,go,go~</p>
+<h2 id="2-怎么阅读呢？"><a href="#2-怎么阅读呢？" class="headerlink" title="2.怎么阅读呢？"></a>2.怎么阅读呢？</h2><p>先推荐一本书，《如何阅读一本书》–[美] 莫提默·J. 艾德勒，该书主要论述指导如何通过阅读增进理解力。</p>
+<p><span id="inline-purple">#关于写作</span><br>人生既然再活一遍没有指望，只好退而求其次，最像再活一遍的事情似乎就是对这一生的一种反思了；要使这种反思尽可能的经久不衰，那就是 诉诸笔墨 ！</p>
+<p></p><h5 style="color:#f63;"><i>最后要说的是：</i></h5><p></p>
+<p></p><p id="div-border-top-green"><i>道理都懂，就践行、积累吧<br></i></p><p></p>
+<blockquote class="blockquote-center">逛吃~逛吃~逛吃~</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;span id=&quot;inline-purple&quot;&gt;#关于阅读&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;1-为什么要阅读呢？&quot;&gt;&lt;a href=&quot;#1-为什么要阅读呢？&quot; class=&quot;headerlink&quot; title=&quot;1.为什么要阅读呢？&quot;&gt;&lt;/a&gt;1.为什么要阅读呢？&lt;/h2&gt;&lt;p&gt;1：我害怕阅读的人，他们的一小时，就是我的一生！&lt;br&gt;2：书中横卧着整个过去的灵魂!&lt;br&gt;3：读书可以经历一千种人生，不读书你只能活一次！&lt;br&gt;4：为了保护我们的思想不受侵害，能够与侵入我们思想使我们日渐沉默的力量抗衡，我们必须学会阅读。以此来激活自身的想象力，去培养属于我们自己的意识和信仰，我们需要这些技能来保卫和维护自己的思想！&lt;br&gt;
+    
+    </summary>
+    
+      <category term="写作" scheme="http://yoursite.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+      <category term="鸡血" scheme="http://yoursite.com/categories/%E5%86%99%E4%BD%9C/%E9%B8%A1%E8%A1%80/"/>
+    
+    
+      <category term="写作" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+      <category term="阅读" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+</feed>
