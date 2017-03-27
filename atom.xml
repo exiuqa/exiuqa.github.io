@@ -57,6 +57,85 @@
   </entry>
   
   <entry>
+    <title>昆曲</title>
+    <link href="http://exiuqa.github.io/2017/01/02/%E6%98%86%E6%9B%B2/"/>
+    <id>http://exiuqa.github.io/2017/01/02/昆曲/</id>
+    <published>2017-01-02T11:07:20.000Z</published>
+    <updated>2017-03-27T01:25:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p id="div-border-top-red">百戏之母</p><br><br>#1.起源<br><br>#2.发展<br><br>#3.现状<br><br>#4.推荐<br><br><em>视频：</em><br><a href="">学堂在线_原来姹紫嫣红开遍</a>；<br><a href="">B 站_1699桃花扇</a>；<br><a href="">b 站_牡丹亭</a>；<br><em>音频：</em><br><br>&gt; ps:书籍没看过，就不推荐了。如果资源失效或者找不到资源可以电邮我[邮箱在左侧栏可以找到]，也欢迎你没事来找我。<br><br><p id="div-border-top-red">听着昆曲编程真是一种享受！</p>
+
+
+
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p id=&quot;div-border-top-red&quot;&gt;百戏之母&lt;/p&gt;&lt;br&gt;&lt;br&gt;#1.起源&lt;br&gt;&lt;br&gt;#2.发展&lt;br&gt;&lt;br&gt;#3.现状&lt;br&gt;&lt;br&gt;#4.推荐&lt;br&gt;&lt;br&gt;&lt;em&gt;视频：&lt;/em&gt;&lt;br&gt;&lt;a href=&quot;&quot;&gt;学堂在线_原来姹紫嫣红开遍&lt;/a&gt;；
+    
+    </summary>
+    
+      <category term="昆曲" scheme="http://exiuqa.github.io/categories/%E6%98%86%E6%9B%B2/"/>
+    
+      <category term="基础" scheme="http://exiuqa.github.io/categories/%E6%98%86%E6%9B%B2/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="昆曲" scheme="http://exiuqa.github.io/tags/%E6%98%86%E6%9B%B2/"/>
+    
+      <category term="戏曲" scheme="http://exiuqa.github.io/tags/%E6%88%8F%E6%9B%B2/"/>
+    
+      <category term="艺术" scheme="http://exiuqa.github.io/tags/%E8%89%BA%E6%9C%AF/"/>
+    
+      <category term="国粹" scheme="http://exiuqa.github.io/tags/%E5%9B%BD%E7%B2%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring 源码-（1）环境搭建</title>
+    <link href="http://exiuqa.github.io/2016/07/15/Spring%20%E6%BA%90%E7%A0%81-%EF%BC%881%EF%BC%89%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    <id>http://exiuqa.github.io/2016/07/15/Spring 源码-（1）环境搭建/</id>
+    <published>2016-07-15T12:07:20.000Z</published>
+    <updated>2017-03-27T02:38:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><p id="div-border-top-red">自己的读书笔记，不喜勿喷，仅供参考！</p><p></p>
+<p><strong>源码地址：</strong><br><a href="https://github.com/spring-projects/spring-framework" target="_blank" rel="external">github</a><br><strong>参考书籍：</strong><br><a href="https://book.douban.com/subject/25866350/" target="_blank" rel="external">Spring源码深度解析</a><br><strong>相关资料：</strong><br><a href="http://projects.spring.io/spring-framework/" target="_blank" rel="external">官方指导</a><br><a href="http://jinnianshilongnian.iteye.com/blog/1482071" target="_blank" rel="external">张开涛-跟我学 spring</a><br><strong>相关工具：</strong><br>编码: IntelliJ Idea<br>包管理: Maven、Gradle<br>代码管理: git<br>基础环境: jdk、tomcat</p>
+<h1 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h1><p>##1.下载源码</p>
+<p><code>git clone git@github.com:spring-projects/spring-framework.git</code></p>
+<blockquote>
+<p>相关 git知识学习<a href="">廖雪峰官网</a>;</p>
+</blockquote>
+<p>##2.导入 IDE<br> 进入源码根目录执行命令</p>
+<p><code>./gradlew cleanIdea :spring-oxm:compileTestJava</code></p>
+<p> 导入Idea (File -&gt; New -&gt; Project from Existing Sources -&gt; Navigate to directory -&gt; 选择 build.gradle)</p>
+<p>##3.导入依赖</p>
+<p><code>./gradlew install</code></p>
+<p>##4.构建</p>
+<p><code>./gradlew build</code></p>
+<blockquote>
+<p>相关 Gradle知识<a href="http://confluence.jetbrains.net/display/IDEADEV/Gradle+integration" target="_blank" rel="external">Gradle support</a></p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;/p&gt;&lt;p id=&quot;div-border-top-red&quot;&gt;自己的读书笔记，不喜勿喷，仅供参考！&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;源码地址：&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;https://github.com/spring-projects/spr
+    
+    </summary>
+    
+      <category term="源码" scheme="http://exiuqa.github.io/categories/%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="spring" scheme="http://exiuqa.github.io/categories/%E6%BA%90%E7%A0%81/spring/"/>
+    
+    
+      <category term="源码" scheme="http://exiuqa.github.io/tags/%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="spring" scheme="http://exiuqa.github.io/tags/spring/"/>
+    
+  </entry>
+  
+  <entry>
     <title>mooc</title>
     <link href="http://exiuqa.github.io/2015/08/01/mooc/"/>
     <id>http://exiuqa.github.io/2015/08/01/mooc/</id>

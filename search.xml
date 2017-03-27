@@ -10,6 +10,20 @@
 
     
     <entry>
+      <title><![CDATA[昆曲]]></title>
+      <url>%2F2017%2F01%2F02%2F%E6%98%86%E6%9B%B2%2F</url>
+      <content type="text"><![CDATA[百戏之母#1.起源#2.发展#3.现状#4.推荐视频：学堂在线_原来姹紫嫣红开遍；B 站_1699桃花扇；b 站_牡丹亭；音频：&gt; ps:书籍没看过，就不推荐了。如果资源失效或者找不到资源可以电邮我[邮箱在左侧栏可以找到]，也欢迎你没事来找我。听着昆曲编程真是一种享受！]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Spring 源码-（1）环境搭建]]></title>
+      <url>%2F2016%2F07%2F15%2FSpring%20%E6%BA%90%E7%A0%81-%EF%BC%881%EF%BC%89%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%2F</url>
+      <content type="text"><![CDATA[自己的读书笔记，不喜勿喷，仅供参考！ 源码地址：github参考书籍：Spring源码深度解析相关资料：官方指导张开涛-跟我学 spring相关工具：编码: IntelliJ Idea包管理: Maven、Gradle代码管理: git基础环境: jdk、tomcat 快速开始##1.下载源码 git clone git@github.com:spring-projects/spring-framework.git 相关 git知识学习廖雪峰官网; ##2.导入 IDE 进入源码根目录执行命令 ./gradlew cleanIdea :spring-oxm:compileTestJava 导入Idea (File -&gt; New -&gt; Project from Existing Sources -&gt; Navigate to directory -&gt; 选择 build.gradle) ##3.导入依赖 ./gradlew install ##4.构建 ./gradlew build 相关 Gradle知识Gradle support]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[mooc]]></title>
       <url>%2F2015%2F08%2F01%2Fmooc%2F</url>
       <content type="text"><![CDATA[大型开放式网络课程，即MOOC（massive open online courses） mooc推荐（有的收费，请自由选择）mooc中国 [http://www.mooc.cn]学堂在线 [http://www.xuetangx.com]慕课网 [http://www.imooc.com]爱课程 [http://www.icourses.cn]中国大学Mooc [http://www.icourse163.org]好大学在线 [http://www.cnmooc.org]天天象上 [http://www.daydays.com]咪咕学堂 [http://www.miguxue.com]万门大学 [http://www.wanmen.org]顶你学堂 [http://www.topu.com]]]></content>
