@@ -33,7 +33,14 @@
 根据返回的 Document 注册 Bean 信息
 
 
-3.自定义标签的解析4.bean的加载5.容器的功能扩展6.AOP">
+3.自定义标签的解析4.bean的加载
+
+转换对应的 beanName
+尝试从缓存中加载单例
+bean 的实例化
+原型模式的依赖检查
+检测 parentBeanFactory
+将存储">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Spring源码-(2)容器">
 <meta property="og:url" content="http://exiuqa.github.io/2016/07/17/Spring源码-(2)容器/index.html">
@@ -46,8 +53,15 @@
 根据返回的 Document 注册 Bean 信息
 
 
-3.自定义标签的解析4.bean的加载5.容器的功能扩展6.AOP">
-<meta property="og:updated_time" content="2017-03-28T02:56:37.000Z">
+3.自定义标签的解析4.bean的加载
+
+转换对应的 beanName
+尝试从缓存中加载单例
+bean 的实例化
+原型模式的依赖检查
+检测 parentBeanFactory
+将存储">
+<meta property="og:updated_time" content="2017-03-28T03:17:38.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Spring源码-(2)容器">
 <meta name="twitter:description" content="自己的读书笔记，不喜勿喷，仅供参考！
@@ -58,7 +72,14 @@
 根据返回的 Document 注册 Bean 信息
 
 
-3.自定义标签的解析4.bean的加载5.容器的功能扩展6.AOP">
+3.自定义标签的解析4.bean的加载
+
+转换对应的 beanName
+尝试从缓存中加载单例
+bean 的实例化
+原型模式的依赖检查
+检测 parentBeanFactory
+将存储">
     
         <link rel="alternative" href="/atom.xml" title="Exiuqa&#39;s Blog" type="application/atom+xml">
     
@@ -223,14 +244,27 @@
 <li>根据返回的 Document 注册 Bean 信息</li>
 </ol>
 </blockquote>
-<h1 id="3-自定义标签的解析"><a href="#3-自定义标签的解析" class="headerlink" title="3.自定义标签的解析"></a>3.自定义标签的解析</h1><h1 id="4-bean的加载"><a href="#4-bean的加载" class="headerlink" title="4.bean的加载"></a>4.bean的加载</h1><h1 id="5-容器的功能扩展"><a href="#5-容器的功能扩展" class="headerlink" title="5.容器的功能扩展"></a>5.容器的功能扩展</h1><h1 id="6-AOP"><a href="#6-AOP" class="headerlink" title="6.AOP"></a>6.AOP</h1>
+<h1 id="3-自定义标签的解析"><a href="#3-自定义标签的解析" class="headerlink" title="3.自定义标签的解析"></a>3.自定义标签的解析</h1><h1 id="4-bean的加载"><a href="#4-bean的加载" class="headerlink" title="4.bean的加载"></a>4.bean的加载</h1><blockquote>
+<ol>
+<li>转换对应的 beanName</li>
+<li><em>尝试</em>从缓存中加载单例</li>
+<li>bean 的实例化</li>
+<li>原型模式的依赖检查</li>
+<li>检测 parentBeanFactory</li>
+<li>将存储 xml配置文件的 GernericBeanDefinition转换为 RootBeanDefinition</li>
+<li>寻找依赖</li>
+<li>针对不同的 scope 进行 bean 的创建</li>
+<li>类型转换</li>
+</ol>
+</blockquote>
+<h1 id="5-容器的功能扩展"><a href="#5-容器的功能扩展" class="headerlink" title="5.容器的功能扩展"></a>5.容器的功能扩展</h1><h1 id="6-AOP"><a href="#6-AOP" class="headerlink" title="6.AOP"></a>6.AOP</h1>
         </div>
 
         <blockquote class="post-copyright">
     <div class="content">
         
 <span class="post-time">
-    最后更新时间：<time datetime="2017-03-28T02:56:37.000Z" itemprop="dateUpdated">2017年3月28日 10:56</time>
+    最后更新时间：<time datetime="2017-03-28T03:17:38.000Z" itemprop="dateUpdated">2017年3月28日 11:17</time>
 </span><br>
 
 

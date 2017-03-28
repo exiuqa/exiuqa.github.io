@@ -96,7 +96,7 @@
     <link href="http://exiuqa.github.io/2016/07/17/Spring%E6%BA%90%E7%A0%81-(2)%E5%AE%B9%E5%99%A8/"/>
     <id>http://exiuqa.github.io/2016/07/17/Spring源码-(2)容器/</id>
     <published>2016-07-17T13:09:20.000Z</published>
-    <updated>2017-03-28T02:56:37.000Z</updated>
+    <updated>2017-03-28T03:17:38.000Z</updated>
     
     <content type="html"><![CDATA[<p></p><p id="div-border-top-red">自己的读书笔记，不喜勿喷，仅供参考！</p><p></p>
 <h1 id="1-容器的基础"><a href="#1-容器的基础" class="headerlink" title="1.容器的基础"></a>1.容器的基础</h1><h1 id="2-默认标签的解析"><a href="#2-默认标签的解析" class="headerlink" title="2.默认标签的解析"></a>2.默认标签的解析</h1><blockquote>
@@ -106,7 +106,20 @@
 <li>根据返回的 Document 注册 Bean 信息</li>
 </ol>
 </blockquote>
-<h1 id="3-自定义标签的解析"><a href="#3-自定义标签的解析" class="headerlink" title="3.自定义标签的解析"></a>3.自定义标签的解析</h1><h1 id="4-bean的加载"><a href="#4-bean的加载" class="headerlink" title="4.bean的加载"></a>4.bean的加载</h1><h1 id="5-容器的功能扩展"><a href="#5-容器的功能扩展" class="headerlink" title="5.容器的功能扩展"></a>5.容器的功能扩展</h1><h1 id="6-AOP"><a href="#6-AOP" class="headerlink" title="6.AOP"></a>6.AOP</h1>]]></content>
+<h1 id="3-自定义标签的解析"><a href="#3-自定义标签的解析" class="headerlink" title="3.自定义标签的解析"></a>3.自定义标签的解析</h1><h1 id="4-bean的加载"><a href="#4-bean的加载" class="headerlink" title="4.bean的加载"></a>4.bean的加载</h1><blockquote>
+<ol>
+<li>转换对应的 beanName</li>
+<li><em>尝试</em>从缓存中加载单例</li>
+<li>bean 的实例化</li>
+<li>原型模式的依赖检查</li>
+<li>检测 parentBeanFactory</li>
+<li>将存储 xml配置文件的 GernericBeanDefinition转换为 RootBeanDefinition</li>
+<li>寻找依赖</li>
+<li>针对不同的 scope 进行 bean 的创建</li>
+<li>类型转换</li>
+</ol>
+</blockquote>
+<h1 id="5-容器的功能扩展"><a href="#5-容器的功能扩展" class="headerlink" title="5.容器的功能扩展"></a>5.容器的功能扩展</h1><h1 id="6-AOP"><a href="#6-AOP" class="headerlink" title="6.AOP"></a>6.AOP</h1>]]></content>
     
     <summary type="html">
     
