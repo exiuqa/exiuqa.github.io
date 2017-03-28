@@ -17,8 +17,15 @@
 
     
     <entry>
-      <title><![CDATA[Spring 源码-（1）环境搭建]]></title>
-      <url>%2F2016%2F07%2F15%2FSpring%20%E6%BA%90%E7%A0%81-%EF%BC%881%EF%BC%89%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%2F</url>
+      <title><![CDATA[Spring源码-(2)容器]]></title>
+      <url>%2F2016%2F07%2F17%2FSpring%E6%BA%90%E7%A0%81-(2)%E5%AE%B9%E5%99%A8%2F</url>
+      <content type="text"><![CDATA[自己的读书笔记，不喜勿喷，仅供参考！ 1.容器的基础2.默认标签的解析 获取对 XML 文件的验证模式。 加载 xml 文件，并得到对应的 Document。 根据返回的 Document 注册 Bean 信息 3.自定义标签的解析4.bean的加载5.容器的功能扩展6.AOP]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[Spring源码-(1)环境搭建]]></title>
+      <url>%2F2016%2F07%2F15%2FSpring%E6%BA%90%E7%A0%81-(1)%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%2F</url>
       <content type="text"><![CDATA[自己的读书笔记，不喜勿喷，仅供参考！ 源码地址：github参考书籍：Spring源码深度解析相关资料：官方指导张开涛-跟我学 spring相关工具：编码: IntelliJ Idea包管理: Maven、Gradle代码管理: git基础环境: jdk、tomcat 快速开始##1.下载源码 git clone git@github.com:spring-projects/spring-framework.git 相关 git知识学习廖雪峰官网; ##2.导入 IDE 进入源码根目录执行命令 ./gradlew cleanIdea :spring-oxm:compileTestJava 导入Idea (File -&gt; New -&gt; Project from Existing Sources -&gt; Navigate to directory -&gt; 选择 build.gradle) ##3.导入依赖 ./gradlew install ##4.构建 ./gradlew build 相关 Gradle知识Gradle support]]></content>
     </entry>
 
