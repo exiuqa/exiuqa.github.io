@@ -96,7 +96,7 @@
     <link href="http://exiuqa.github.io/2016/07/17/Spring%E6%BA%90%E7%A0%81-(2)%E5%AE%B9%E5%99%A8/"/>
     <id>http://exiuqa.github.io/2016/07/17/Spring源码-(2)容器/</id>
     <published>2016-07-17T13:09:20.000Z</published>
-    <updated>2017-03-28T03:17:38.000Z</updated>
+    <updated>2017-03-28T03:23:40.000Z</updated>
     
     <content type="html"><![CDATA[<p></p><p id="div-border-top-red">自己的读书笔记，不喜勿喷，仅供参考！</p><p></p>
 <h1 id="1-容器的基础"><a href="#1-容器的基础" class="headerlink" title="1.容器的基础"></a>1.容器的基础</h1><h1 id="2-默认标签的解析"><a href="#2-默认标签的解析" class="headerlink" title="2.默认标签的解析"></a>2.默认标签的解析</h1><blockquote>
@@ -144,22 +144,22 @@
     <link href="http://exiuqa.github.io/2016/07/15/Spring%E6%BA%90%E7%A0%81-(1)%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
     <id>http://exiuqa.github.io/2016/07/15/Spring源码-(1)环境搭建/</id>
     <published>2016-07-15T12:07:20.000Z</published>
-    <updated>2017-03-28T02:35:58.000Z</updated>
+    <updated>2017-03-28T05:10:12.000Z</updated>
     
     <content type="html"><![CDATA[<p></p><p id="div-border-top-red">自己的读书笔记，不喜勿喷，仅供参考！</p><p></p>
-<p><strong>源码地址：</strong><br><a href="https://github.com/spring-projects/spring-framework" target="_blank" rel="external">github</a><br><strong>参考书籍：</strong><br><a href="https://book.douban.com/subject/25866350/" target="_blank" rel="external">Spring源码深度解析</a><br><strong>相关资料：</strong><br><a href="http://projects.spring.io/spring-framework/" target="_blank" rel="external">官方指导</a><br><a href="http://jinnianshilongnian.iteye.com/blog/1482071" target="_blank" rel="external">张开涛-跟我学 spring</a><br><strong>相关工具：</strong><br>编码: IntelliJ Idea<br>包管理: Maven、Gradle<br>代码管理: git<br>基础环境: jdk、tomcat</p>
-<h1 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h1><p>##1.下载源码</p>
-<p><code>git clone git@github.com:spring-projects/spring-framework.git</code></p>
+<p><strong>源码地址：</strong><br><a href="https://github.com/spring-projects/spring-framework" target="_blank" rel="external">github</a></p>
+<p><strong>参考书籍：</strong><br><a href="https://book.douban.com/subject/25866350/" target="_blank" rel="external">Spring源码深度解析</a></p>
+<p><strong>相关资料：</strong><br><a href="http://projects.spring.io/spring-framework/" target="_blank" rel="external">官方指导</a><br><a href="http://jinnianshilongnian.iteye.com/blog/1482071" target="_blank" rel="external">张开涛-跟我学 spring</a></p>
+<p><strong>相关工具：</strong><br>编码: IntelliJ Idea<br>包管理: Maven、Gradle<br>代码管理: git<br>基础环境: jdk、tomcat</p>
+<h1 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h1><h2 id="1-下载源码"><a href="#1-下载源码" class="headerlink" title="1.下载源码"></a>1.下载源码</h2><p><code>git clone git@github.com:spring-projects/spring-framework.git</code></p>
 <blockquote>
 <p>相关 git知识学习<a href="">廖雪峰官网</a>;</p>
 </blockquote>
-<p>##2.导入 IDE<br> 进入源码根目录执行命令</p>
+<h2 id="2-导入-IDE"><a href="#2-导入-IDE" class="headerlink" title="2.导入 IDE"></a>2.导入 IDE</h2><p> 进入源码根目录执行命令</p>
 <p><code>./gradlew cleanIdea :spring-oxm:compileTestJava</code></p>
 <p> 导入Idea (File -&gt; New -&gt; Project from Existing Sources -&gt; Navigate to directory -&gt; 选择 build.gradle)</p>
-<p>##3.导入依赖</p>
-<p><code>./gradlew install</code></p>
-<p>##4.构建</p>
-<p><code>./gradlew build</code></p>
+<h2 id="3-导入依赖"><a href="#3-导入依赖" class="headerlink" title="3.导入依赖"></a>3.导入依赖</h2><p><code>./gradlew install</code></p>
+<h2 id="4-构建"><a href="#4-构建" class="headerlink" title="4.构建"></a>4.构建</h2><p><code>./gradlew build</code></p>
 <blockquote>
 <p>相关 Gradle知识<a href="http://confluence.jetbrains.net/display/IDEADEV/Gradle+integration" target="_blank" rel="external">Gradle support</a></p>
 </blockquote>
@@ -180,6 +180,64 @@
       <category term="源码" scheme="http://exiuqa.github.io/tags/%E6%BA%90%E7%A0%81/"/>
     
       <category term="spring" scheme="http://exiuqa.github.io/tags/spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式-(1)工厂模式</title>
+    <link href="http://exiuqa.github.io/2016/02/13/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-(1)%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://exiuqa.github.io/2016/02/13/设计模式-(1)工厂模式/</id>
+    <published>2016-02-13T14:09:20.000Z</published>
+    <updated>2017-03-28T05:10:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><p id="div-border-top-red">自己的读书笔记，不喜勿喷，仅供参考！</p><p></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;/p&gt;&lt;p id=&quot;div-border-top-red&quot;&gt;自己的读书笔记，不喜勿喷，仅供参考！&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="设计模式" scheme="http://exiuqa.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="工厂模式" scheme="http://exiuqa.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+      <category term="设计模式" scheme="http://exiuqa.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="模式" scheme="http://exiuqa.github.io/tags/%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="java" scheme="http://exiuqa.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式-(0)基础</title>
+    <link href="http://exiuqa.github.io/2016/02/11/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-(0)%E5%9F%BA%E7%A1%80/"/>
+    <id>http://exiuqa.github.io/2016/02/11/设计模式-(0)基础/</id>
+    <published>2016-02-11T13:06:25.000Z</published>
+    <updated>2017-03-28T05:10:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><p id="div-border-top-red">自己的读书笔记，不喜勿喷，仅供参考！</p><p></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;/p&gt;&lt;p id=&quot;div-border-top-red&quot;&gt;自己的读书笔记，不喜勿喷，仅供参考！&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="设计模式" scheme="http://exiuqa.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+      <category term="设计模式" scheme="http://exiuqa.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="模式" scheme="http://exiuqa.github.io/tags/%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="java" scheme="http://exiuqa.github.io/tags/java/"/>
     
   </entry>
   
