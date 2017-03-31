@@ -188,14 +188,48 @@
     <link href="http://exiuqa.github.io/2016/02/13/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-(1)%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
     <id>http://exiuqa.github.io/2016/02/13/设计模式-(1)工厂模式/</id>
     <published>2016-02-13T14:09:20.000Z</published>
-    <updated>2017-03-28T05:10:09.000Z</updated>
+    <updated>2017-03-31T06:59:12.000Z</updated>
     
     <content type="html"><![CDATA[<p></p><p id="div-border-top-red">自己的读书笔记，不喜勿喷，仅供参考！</p><p></p>
+<pre><code>![](/media/14909435375051.jpg)
+</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;/p&gt;&lt;p id=&quot;div-border-top-red&quot;&gt;自己的读书笔记，不喜勿喷，仅供参考！&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![](/media/14909435375051.jpg)
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+      <category term="设计模式" scheme="http://exiuqa.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="工厂模式" scheme="http://exiuqa.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+      <category term="设计模式" scheme="http://exiuqa.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="模式" scheme="http://exiuqa.github.io/tags/%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="java" scheme="http://exiuqa.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式-(2)享元模式</title>
+    <link href="http://exiuqa.github.io/2016/02/13/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-(2)%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://exiuqa.github.io/2016/02/13/设计模式-(2)享元模式/</id>
+    <published>2016-02-13T14:09:20.000Z</published>
+    <updated>2017-03-29T03:00:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><p id="div-border-top-red">自己的读书笔记，不喜勿喷，仅供参考！</p><p></p>
+<p>flyweight<br>什么是享元模式？不同的属性封装成外部状态，作为方法参数传入</p>
 ]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;/p&gt;&lt;p id=&quot;div-border-top-red&quot;&gt;自己的读书笔记，不喜勿喷，仅供参考！&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;flyweight&lt;br&gt;什么是享元模式？不同的属性封装成外部状态，作为方法参数传入&lt;/p&gt;
 
     
     </summary>

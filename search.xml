@@ -33,7 +33,14 @@
     <entry>
       <title><![CDATA[设计模式-(1)工厂模式]]></title>
       <url>%2F2016%2F02%2F13%2F%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-(1)%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F%2F</url>
-      <content type="text"><![CDATA[自己的读书笔记，不喜勿喷，仅供参考！]]></content>
+      <content type="text"><![CDATA[自己的读书笔记，不喜勿喷，仅供参考！ ![](/media/14909435375051.jpg)]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[设计模式-(2)享元模式]]></title>
+      <url>%2F2016%2F02%2F13%2F%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-(2)%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F%2F</url>
+      <content type="text"><![CDATA[自己的读书笔记，不喜勿喷，仅供参考！ flyweight什么是享元模式？不同的属性封装成外部状态，作为方法参数传入]]></content>
     </entry>
 
     
