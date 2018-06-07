@@ -1,0 +1,28 @@
+{
+  "name": "exiuqa.github.io",
+  "version": "1.0.0",
+  "description": "一休强",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy:build": "npm run docs:build && xcopy /s /e /y dist ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exiuqa/exiuqa.github.io.git"
+  },
+  "keywords": [
+    "exiuqa",
+    "vue",
+    "vuepress"
+  ],
+  "author": "一休强",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/exiuqa/exiuqa.github.io/issues"
+  },
+  "homepage": "https://github.com/exiuqa/exiuqa.github.io.git#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
