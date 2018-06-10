@@ -10,26 +10,36 @@ module.exports = {
             { text: '首页', link: '/' },
             {
                 text: '行动现在',
-                items: [{ text: 'spring', link: '/now/spring/' },
-                { text: 'spring-batch', link: '/now/springbatch/' },]
+                items: [{ text: 'java', link: '/now/java/' },
+                { text: 'spring', link: '/now/spring/' },
+                { text: 'git', link: '/now/git/' },
+                { text: 'idea', link: '/now/idea/' },
+                { text: 'linux', link: '/now/linux/' },
+                { text: 'docker', link: '/now/docker/' },
+                { text: 'web', link: '/now/web/' },]
             },
-            { text: '准备未来', link: '/future/' },
-            { text: '封存过去', link: '/past/' },
+            {
+                text: '准备未来',
+                items: [{ text: '第二大脑', link: '/future/brain/' },
+                { text: '解忧杂货', link: '/future/worryGrocery/' },
+                ]
+            },
+            //{ text: '封存过去', link: '/past/' },
             { text: '联系我', link: '/me/me.md' },
         ],
         sidebar: {
-            '/now/': [{
-                title: '行动现在',
-                collapsable: true,
+            '/future/brain/': [{
+                //title: '第二大脑',
+                collapsable: false,
                 children: [
                     ''
                 ]
             }],
-            '/future/': [{
-                title: '准备未来',
+            '/future/worryGrocery/': [{
+                //title: '解忧杂货',
                 collapsable: false,
                 children: [
-                    '',
+                    ''
                 ]
             }],
         }
