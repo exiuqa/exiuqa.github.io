@@ -42,6 +42,31 @@ module.exports = {
                     ''
                 ]
             }],
+            '/now/java/': [{
+                //title: 'java',
+                collapsable: false,
+                children: [
+                    ['jvm',"1.jvm"],
+                    ['foundation',"2.Java基础"],
+                    ['concurrent',"3.并发编程"],
+                    ['network',"4.网络编程"],
+                    ['code',"5.源码解析"],
+                    ['design',"6.设计模式"],
+                    ['framework',"7.框架"],
+                    ['server',"8.应用服务器"],
+                    ['structure',"9.数据结构"],
+                    ['system',"10.操作系统"],
+                    ['compiling',"11.编译原理"],
+                    ['store',"12.数据存储"],
+                    ['safe',"13.网络安全"],
+                    ['frame',"14.架构"],
+                    ['data',"15.大数据"],
+                    ['deploy',"16.构建&部署"],
+                    ['about',"17.相关知识"]
+            
+
+                ]
+            }],
         }
     }, //themeConfig
 }
