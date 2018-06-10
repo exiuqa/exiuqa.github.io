@@ -2,7 +2,7 @@ module.exports = {
     title: '一休强开讲啦',
     description: '人的综合素养主要包括科学素养,人文素养和艺术素养。科学追求的是真、给人以理性、使人理智；人文追求的是善、给人以悟性、使人虔诚；艺术追求的是美、给人以感性、让人富有激情。',
     dest: './dist',    // 设置输出目录
-    base: '/dist', // 设置站点根路径
+    base: '/', // 设置站点根路径
     port: 7070,
     themeConfig: {
         repo: 'https://github.com/exiuqa',
