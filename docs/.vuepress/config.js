@@ -8,35 +8,35 @@ module.exports = {
 		repo: "https://github.com/exiuqa",
 		nav: [
 			{ text: "首页", link: "/" },
-			// {
-			// 	text: "行动现在",
-			// 	items: [
-			// 		{
-			// 			text: "01.机器学习",
-			// 			items: [
-			// 				{ text: "java", link: "/now/java/" },
-			// 				{ text: "spring", link: "/now/spring/" },
-			// 				{ text: "git", link: "/now/git/" },
-			// 				{ text: "idea", link: "/now/idea/" },
-			// 				{ text: "linux", link: "/now/linux/" },
-			// 				{ text: "docker", link: "/now/docker/" },
-			// 				{ text: "web", link: "/now/web/" },
-			// 			],
-			// 		},
-			// 		{
-			// 			text: "02.金融业务",
-			// 			items: [
-			// 				{ text: "网贷业务", link: "/now/netloan/" },
-			// 			],
-            //         },
-            //         {
-			// 			text: "03.现代生活",
-			// 			items: [
-			// 				/*  */
-			// 			],
-			// 		},
-			// 	],
-			// },
+			{
+				text: "行动现在",
+				items: [
+					{
+						text: "01.机器学习",
+						items: [
+							{ text: "java", link: "/now/java/" },
+							{ text: "spring", link: "/now/spring/" },
+							{ text: "git", link: "/now/git/" },
+							{ text: "idea", link: "/now/idea/" },
+							{ text: "linux", link: "/now/linux/" },
+							{ text: "docker", link: "/now/docker/" },
+							{ text: "web", link: "/now/web/" },
+						],
+					},
+					{
+						text: "02.金融业务",
+						items: [
+							{ text: "网贷业务", link: "/now/netloan/" },
+						],
+                    },
+                    {
+						text: "03.现代生活",
+						items: [
+							{ text: "网贷业务", link: "/now/netloan/" },
+						],
+					},
+				],
+			},
 			{
 				text: "准备未来",
 				items: [ { text: "第二大脑", link: "/future/brain/" }, { text: "解忧杂货", link: "/future/worryGrocery/" } ],
