@@ -69,4 +69,7 @@ module.exports = {
             }],
         }
     }, //themeConfig
+    markdown: {
+        lineNumbers: true
+    }
 }

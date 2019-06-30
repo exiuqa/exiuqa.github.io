@@ -1,7 +1,7 @@
 ---
 home: true
 features:
-footer: 一休强 Copyright © 2015-2018
+footer: 一休强 Copyright © 2015-2019
 ---
 
 
