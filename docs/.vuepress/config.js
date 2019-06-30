@@ -4,8 +4,9 @@ module.exports = {
 	dest: "./dist", // 设置输出目录
 	base: "/", // 设置站点根路径
 	port: 7070,
+	lastUpdated: 'Last Updated',
 	themeConfig: {
-		repo: "https://github.com/exiuqa",
+		// repo: "https://github.com/exiuqa",
 		nav: [
 			{ text: "首页", link: "/" },
 			{
