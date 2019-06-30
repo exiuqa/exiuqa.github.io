@@ -23,8 +23,12 @@
     "url": "https://github.com/exiuqa/exiuqa.github.io/issues"
   },
   "homepage": "https://github.com/exiuqa/exiuqa.github.io.git#readme",
-  "devDependencies": {},
-  "dependencies": {
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "moment": "^2.24.0",
     "vuepress": "^1.0.2"
+  },
+  "dependencies": {
+  
   }
 }
