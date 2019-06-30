@@ -13,7 +13,7 @@ features:
   details: 人文追求的是善、给人以悟性、使人虔诚
 - title: 艺术
   details: 艺术追求的是美、给人以感性、让人富有激情
-footer: MIT Licensed | Copyright © 2018-present 一休强
+footer: MIT | Copyright © 2018-present 一休强
 ---
 
 
