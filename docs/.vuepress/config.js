@@ -40,7 +40,7 @@ module.exports = {
                         ]
 					},
 					{
-						text: "其它技术知识",
+						text: "other",
 						items: [
 							{ text: "vpn", link: "/now/other/vpn.md" },
                         ]
