@@ -14,26 +14,34 @@ module.exports = {
 					{
 						text: "java",
 						items: [
-							{ text: "java", link: "/now/java/" },
+							{ text: "jvm", link: "/now/java/jvm.md" },
                         ]
                     },
                     {
 						text: "linux",
 						items: [
-							{ text: "linux", link: "/now/java/" },
+							{ text: "vim", link: "/now/linux/vim.md" },
+                        ]
+					},
+					{
+						text: "其它技术知识",
+						items: [
+							{ text: "vpn", link: "/now/other/vpn.md" },
                         ]
 					},
 				],
 			},
 			{
 				text: "金融业务",
-				items: [ { text: "第二大脑", link: "/future/brain/" }, { text: "解忧杂货", link: "/future/worryGrocery/" } ],
+				items:[{
+					text: "网贷业务",link:"/biz/netloan.md"
+				},{
+					text: "财务报表",link:"/biz/financial.md"
+				}]
 			},
             {
                 text: "现代生活",
-                items: [
-                    { text: "昆曲", link: "/now/netloan/" },
-                ],
+				items: [ { text: "第二大脑", link: "/future/brain/" }, { text: "解忧杂货", link: "/future/worryGrocery/" } ,{ text: "昆曲", link: "/future/kunqu/" }],
             },
 			{ text: "联系我", link: "/me/me.md" },
 		],
