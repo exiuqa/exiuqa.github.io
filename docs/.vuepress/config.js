@@ -10,6 +10,7 @@ module.exports = {
 	markdown: {
 		lineNumbers: true,
 	},
+	displayAllHeaders: true, // 显示所有页面的标题链接 默认值：false
 	plugins: [['@vuepress/back-to-top'],[ 
 		'@vuepress/last-updated',
 		{
